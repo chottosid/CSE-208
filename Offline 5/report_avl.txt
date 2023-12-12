@@ -1,0 +1,6 @@
+operation time(ms)
+insert: 8.905533333333333E10
+delete: 7.90025E9
+search: 3.8663333333333335E9
+trav: 2.03945E12
+total: 4.923598E12

@@ -1,0 +1,7 @@
+
+ 	 	 	 FOR N' = 20000:-
+					   Hash 1						  Hash 2
+				Collision Count 	Average Probes		Collision Count		Average Probes
+Chain Linking			2163			1.237				2114			1.26
+Double Hashing			3936			1.383				3923			1.367
+Custom Probing			3873			1.369				3790			1.392
